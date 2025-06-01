@@ -1,26 +1,62 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
-
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
+import catppuccin from "@catppuccin/starlight";
 // https://astro.build/config
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
-			],
-		}),
-	],
+  integrations: [
+    starlight({
+      title: "Ian Watkins Stories",
+      logo: {
+        src: "./src/assets/ian.png",
+      },
+      customCss: ["./src/styles/custom.css"],
+      plugins: [
+        catppuccin({
+          dark: { flavor: "frappe", accent: "mauve" },
+          light: { flavor: "latte", accent: "teal" },
+        }),
+      ],
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/MistbornOne",
+        },
+        {
+          icon: "seti:powershell",
+          label: "Terminal",
+          href: "https://ianwatkins.pro",
+        },
+        {
+          icon: "laptop",
+          label: "Blog",
+          href: "https://ianwatkins.dev",
+        },
+        {
+          icon: "email",
+          label: "Email",
+          href: "mailto: info@ianwatkins.dev",
+        },
+      ],
+      sidebar: [
+        {
+          label: "Guides",
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: "Start Here", slug: "guides/example" },
+          ],
+        },
+
+        {
+          label: "Short Stories",
+          autogenerate: { directory: "short-stories" },
+        },
+        {
+          label: "Caveumbria Book One",
+          autogenerate: { directory: "caveumbria" },
+        },
+      ],
+    }),
+  ],
 });
