@@ -47,6 +47,6 @@ She sighed and shook her head in disappointed agreement. “Well, make it as fas
 
 “How… _delightful_,” she squeaked.
 
-With that, she hopped out of his visitor’s chair and strode out of his dark office without another word. _Strange little bird_, he thought. He counted the bismuth again, lifting it up to his nose and sniffing. _Twelve hundred_. \_Ought to be enough to cover what I owe Buggsy \_and \_get a decent meal… and some chocolate milk. \_His stomach rumbled aloud at the thought.
+With that, she hopped out of his visitor’s chair and strode out of his dark office without another word. _Strange little bird_, he thought. He counted the bismuth again, lifting it up to his nose and sniffing. _Twelve hundred_. _Ought to be enough to cover what I owe Buggsy_ and _get a decent meal… and some chocolate milk._ His stomach rumbled aloud at the thought.
 
 He hopped up and shoved the money into his pants pocket before grabbing his hat off the giant nail he had driven into the concrete wall of his tiny apartment. He patted himself down to make sure he had everything and strolled out into the dark village of Caveumbria.
