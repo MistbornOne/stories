@@ -23,7 +23,7 @@ The right panel is where the outline of the current chapter or short story will 
 
 ## Navigating Stories
 
-When you choose a book you wish to read, choose the first chapter listed under the heading. You can then read the chapter in the middle panel. When you reach the end of the chapter, you will have two buttons for navigating to the previous and next chapter on the bottom.
+Click the name of the book you wish to read in the left sidebar, then choose the first chapter listed under the heading. You can then read the chapter in the middle panel. When you reach the end of the chapter, you will have two buttons for navigating to the previous and next chapter on the bottom.
 
 You can thus easily jump to the next chapter without needing to worry about the left panel. However, if you want to, you can use that navigation pane as well.
 

@@ -42,6 +42,7 @@ export default defineConfig({
       sidebar: [
         {
           label: "Guides",
+          collapsed: false,
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Start Here", slug: "guides/example" },
@@ -50,10 +51,12 @@ export default defineConfig({
 
         {
           label: "Short Stories",
+          collapsed: true,
           autogenerate: { directory: "short-stories" },
         },
         {
           label: "The Rifflebum Case: Leviathan Jones Chronicles, Book 1",
+          collapsed: true,
           autogenerate: { directory: "caveumbria" },
         },
       ],
