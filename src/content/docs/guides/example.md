@@ -3,7 +3,7 @@ title: Navigating The Stories
 description: A guide to reading stories on my site.
 ---
 
-## Site Layout
+## Site Layout (Desktop Version)
 
 The way this site is laid out is fairly straightforward, but I still want to give a quick guide on navigating it, just in case.
 
@@ -26,6 +26,12 @@ The right panel is where the outline of the current chapter or short story will 
 When you choose a book you wish to read, choose the first chapter listed under the heading. You can then read the chapter in the middle panel. When you reach the end of the chapter, you will have two buttons for navigating to the previous and next chapter on the bottom.
 
 You can thus easily jump to the next chapter without needing to worry about the left panel. However, if you want to, you can use that navigation pane as well.
+
+## Site Layout (Mobile Version)
+
+The mobile version of the site is similar to the desktop version, but with a few key differences to make it easier to navigate on smaller screens.
+
+There will not be a left or right panel. Instead, the navigation will be at the top of the screen, with a dropdown menu for selecting books and chapters.
 
 # Thank You 🙏🏼
 
