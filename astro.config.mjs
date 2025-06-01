@@ -53,7 +53,7 @@ export default defineConfig({
           autogenerate: { directory: "short-stories" },
         },
         {
-          label: "Caveumbria Book One",
+          label: "The Rifflebum Case: Leviathan Jones Chronicles, Book 1",
           autogenerate: { directory: "caveumbria" },
         },
       ],
