@@ -1,5 +1,5 @@
 ---
-title: "Chapter One: The Rifflebum Case"
+title: "Chapter 1: The Rifflebum Case"
 description: "First chapter of the Leviathan Jones Chronicles"
 ---
 

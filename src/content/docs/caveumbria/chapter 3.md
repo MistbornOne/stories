@@ -1,5 +1,5 @@
 ---
-title: "Chapter Three: Got Hung Up"
+title: "Chapter 3: Got Hung Up"
 description: Leviathan Jones finds himself in a sticky situation with Buggsy and his henchmen.
 ---
 

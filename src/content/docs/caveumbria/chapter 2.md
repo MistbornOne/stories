@@ -1,5 +1,5 @@
 ---
-title: "Chapter Two: The Hunt Begins"
+title: "Chapter 2: The Hunt Begins"
 description: "Second chapter of the Leviathan Jones Chronicles"
 ---
 
