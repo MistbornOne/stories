@@ -3,8 +3,6 @@ title: "Chapter 4: Bessy's Milk Bar"
 description: Leviathan gets a lead at his favorite milk bar.
 ---
 
-### Chapter Four: Bessy’s Milk Bar
-
 “Hit me again, Bessy,” Leviathan said, sliding his clear glass mug across the wooden bar to the lady standing behind it. Half troll and half dwarf, she was about the size of a large gargoyle with flaming red hair and a fair gray complexion.
 
 “You’ve already had two, Jones. I ought to cut you off.” She said, scooping up his oversized mug and rinsing it in the sink.
