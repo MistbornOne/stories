@@ -3,8 +3,6 @@ title: "Chapter 5: The Lead"
 description: "Leviathan gets a lead at the Milky Maiden."
 ---
 
-### Chapter Five: The Lead
-
 “Let’s go through it one more time, Miss Brown,” Leviathan said, tapping his pen against his pocket notepad. The two of them sat at a two-top in the dark corner of the Milky Maiden. He wouldn’t normally interview someone out in the open like that in the Mole District, but desperate times called for desperate measures. Not to mention the place was basically empty by this point and Bess was close to shutting down for the night.
 
 “Well,” she said, batting her eyelashes repeatedly. “I was visiting a _friend_ of mine in Gnometown on Saturday afternoon…”
